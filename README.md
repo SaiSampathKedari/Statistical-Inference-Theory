@@ -4,7 +4,7 @@ This repository contains my **lecture notes** and **solved exercises** from *Cas
 
 ## Key Topics Covered
 1. **Principles of Data Reduction**: Sufficiency, Minimal Sufficiency, Ancillary Statistics, Complete Statistics, and the Likelihood Principle.
-2. **Point Estimation**: Methods of Moments, Maximum Likelihood Estimators, Bayes Estimators, EM Algo, Methods ofEvaluating Estimators, and Fisher Information.
+2. **Point Estimation**: Methods of Moments, Maximum Likelihood Estimators, Bayes Estimators, The EM Algorithm, Methods of Evaluating Estimators, and Fisher Information.
 3. **Hypothesis Testing**: Neyman-Pearson Lemma, Likelihood Ratio Tests, and Decision Theory.
 4. **Interval Estimation**: Confidence Intervals, Bayesian Credible Intervals, and Large Sample Approximations.
 
