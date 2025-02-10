@@ -30,4 +30,4 @@ I am focused on building strong **mathematical and statistical foundations** to 
 ### **Contact**  
 Feel free to connect with me:
 - **Email**: sampath@umich.edu  
-- **LinkedIn**: [Sai Sampath Kedari](www.linkedin.com/in/sai-sampath-kedari)
+- **LinkedIn**: www.linkedin.com/in/sai-sampath-kedari
