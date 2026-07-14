@@ -1,5 +1,7 @@
 # Statistical Inference Theory - Casella-Berger - UMICH STATS 511 - MIT 18.650
 
+> 🚧 **In the works:** an intuition-first blog series with animations on the **score function, MLE, and Fisher information** — currently being written, stay tuned!
+
 This repository contains my **lecture notes** and **solved exercises** from *Casella-Berger: Statistical Inference (Chapters 6-9)*, along with supporting materials from **MIT 18.650: Statistics for Applications** and **UMich STATS 511: Statistical Inference**. The focus is on **point estimation, hypothesis testing, and interval estimation**, which are fundamental to **Machine Learning, AI, and Robotics**.
 
 ## Key Topics Covered
